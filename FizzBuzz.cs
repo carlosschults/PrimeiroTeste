@@ -10,6 +10,9 @@ namespace PrimeiroTeste
     {
         public static string Calcular(int n)
         {
+            if (n <= 0 || n > 100)
+                throw new ArgumentOutOfRangeException();
+
             var resposta = string.Empty;
             if (n % 3 == 0)
                 resposta += "Fizz";
