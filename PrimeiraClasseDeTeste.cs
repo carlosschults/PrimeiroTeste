@@ -12,7 +12,7 @@ namespace PrimeiroTeste
         [Test]
         public void PrimeiroMetodoDeTeste()
         {
-
+            Assert.AreEqual(10, 5 + 5);
         }
     }
 }
