@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PrimeiroTeste
 {
-    public class Class1
+    public class PrimeiraClasseDeTeste
     {
     }
 }
