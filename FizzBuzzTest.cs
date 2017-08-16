@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace PrimeiroTeste
 {
-    [Ignore(reason:"Demonstração")]
     class FizzBuzzTest
     {
         [Test]

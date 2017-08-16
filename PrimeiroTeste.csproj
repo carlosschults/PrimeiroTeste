@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FizzBuzz.cs" />
+    <Compile Include="FizzBuzzParameterizedTest.cs" />
     <Compile Include="FizzBuzzTest.cs" />
     <Compile Include="PrimeiraClasseDeTeste.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
